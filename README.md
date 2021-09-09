@@ -1,6 +1,6 @@
 # Evaluatenewsnlp2
 
-It is the same as the starter used in lesson 2. Start by installing and configuring Webpack just as it was done in the course. Always refer to the course repo as you proceed, and remember to make frequent commits and to create and merge branches as necessary.
+Start by installing and configuring Webpack just as it was done in the course. Always refer to the course as you proceed, and remember to make frequent commits and to create and merge branches as necessary.
 
 The goal of this project is to practice with:
 - Setting up Webpack
